@@ -18,7 +18,7 @@
 ## How to run
 
 1. Prepare your environment: [Requirements](http://facebook.github.io/react-native/docs/getting-started.html#requirements) 
-2, In iOS Device
+2. In iOS Device
 3. Clone this repo, and goto the project root directory
 4. run `npm install`
 5. Enjoy

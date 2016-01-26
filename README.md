@@ -9,12 +9,12 @@ test111
 
 * The home page
 
-![](./art/up.jpg)
+![](./art/up.png)
 
 * The drawer
 
-![](./art/left.jpg)
+![](./art/left.png)
 
 * The content page
 
-![](./art/normal.jpg)
+![](./art/normal.png)

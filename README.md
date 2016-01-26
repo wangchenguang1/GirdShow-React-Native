@@ -17,10 +17,11 @@
 
 ## How to run
 
-1. Prepare your environment: [Requirements](http://facebook.github.io/react-native/docs/getting-started.html#requirements) and [Android Setup](http://facebook.github.io/react-native/docs/android-setup.html)
-2. Clone this repo, and goto the project root directory
-3. run `npm install`
-4. Enjoy
+1. Prepare your environment: [Requirements](http://facebook.github.io/react-native/docs/getting-started.html#requirements) 
+2, In iOS Device
+3. Clone this repo, and goto the project root directory
+4. run `npm install`
+5. Enjoy
 
 ## Related content
 
@@ -31,6 +32,5 @@ In this project, I used most of technology in React Native:
 * Native UI Components
 * Image/Text/ListView
 * TouchableHighlight/TouchableNativeFeedback
-* ToolbarAndroid/Navigator
 * Customize view
 * ...
